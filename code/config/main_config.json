@@ -1,0 +1,9 @@
+{
+    "device": "Neuracle-64",
+    "rechost": "127.0.0.1",
+    "recport": 8712,
+    "sendhost": "192.168.31.205",
+    "sendport": 8713,
+    "buffersize": 4,
+    "baselinesize": 5
+}
